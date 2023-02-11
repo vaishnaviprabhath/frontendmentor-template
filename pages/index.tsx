@@ -11,6 +11,7 @@ export default function Home() {
       <Head>
         <title>Sample App</title>
       </Head>
+      <p className="text-lg">Sample text in lg</p>
     </>
   );
 }
